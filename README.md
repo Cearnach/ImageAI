@@ -1,3 +1,9 @@
+#模型
+SqueezeNet（预测速度最快 正确率中等）  
+ResNet50 （预测速度快 正确率较高）  
+InceptionV3（预测速度慢 正确率高）  
+DenseNet121（预测速度更慢 正确率最高）  
+使用 detector.setModelTypeAsRetinaNet() 设置运算模型
 # ImageAI <br>
 A python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple
  and few lines of code. <br><br>
